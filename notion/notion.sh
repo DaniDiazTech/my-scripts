@@ -1,4 +1,4 @@
 #!/bin/sh
 
-brave --user-data-dir=$HOME/.local/share/applications/notion --app=https://notion.so
+brave --user-data-dir=Default --app=https://notion.so
 
